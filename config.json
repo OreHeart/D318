@@ -1,0 +1,1 @@
+{"url":"http://localhost","auth":{"enable":"false","user":"admin","pass":"pass"},"plugins":{"nextion":{"port":"/dev/ttyAMA0","sleep":65535},"profiles":{"selectedIdx":1},"plates":{"fileExt":"zip|stl","showAll":"false","autoFetch":"true"},"pushbullet":{"apiKey":null}}}
